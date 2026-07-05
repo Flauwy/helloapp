@@ -1,3 +1,5 @@
+def greetWhite():
+    print("hello white")
 def say_hello():
     print("hello")
 if __name__ == "__main__":
